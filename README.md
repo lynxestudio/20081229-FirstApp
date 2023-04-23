@@ -13,6 +13,7 @@ Esto nos genera un archivo ProgramCS.exe que es el ensamblado ejecutable.
 Ahora examinemos el mismo programa en código Visual Basic.
 
 Lo compilamos:
+
 $ vbnc ProgramVB.vb
 
 
