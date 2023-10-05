@@ -1,6 +1,6 @@
 using System;
 
-namespace blog.listings{
+namespace Repo.Samples{
     public class ProgramCS {
         static void Main(string[] args) {
             Console.WriteLine("Tabla de equivalencias de celsius a fahrenheit");

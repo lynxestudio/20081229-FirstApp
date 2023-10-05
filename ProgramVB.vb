@@ -1,5 +1,5 @@
 Imports System
-Namespace blog.listings
+Namespace Repo.Samples
     Public Class ProgramVB
         Shared Sub Main()
             Console.WriteLine("Tabla de equivalencias de celsius a fahrenheit")
