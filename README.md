@@ -11,6 +11,7 @@ $ mcs ProgramCS.cs
 
 Esto nos genera un archivo ProgramCS.exe que es el ensamblado ejecutable.
 Ahora examinemos el mismo programa en código Visual Basic.
+<img src="image2.png"/>
 
 Lo compilamos:
 
