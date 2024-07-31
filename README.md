@@ -1,25 +1,23 @@
 # Entendiendo los ensamblados (assemblies)
 
-Una de las características más atractivas que ofrece la programación con .NET es la posibilidad de poder construir aplicaciones con diferentes lenguajes, cada compilador para .NET genera un módulo ejecutable conocido como assembly (ensamblado) que contiene instrucciones en un lenguaje llamado CIL (Common Intermediate Language) que es ejecutado por el CLR (Common Language Runtime).
+Una de las características más atractivas que ofrece la programación con .NET es la posibilidad de poder construir aplicaciones con diferentes lenguajes, cada compilador para .NET genera un módulo ejecutable conocido como <b>assembly</b> (ensamblado) que contiene instrucciones en un lenguaje llamado CIL (Common Intermediate Language) que es ejecutado por el CLR (Common Language Runtime).
+A diferencia de un compilador para lenguajes como C, Fortran o Pascal que produce codigo binario especifico para cada procesador, como el que se ve en la siguiente imagen:
 
-Examinemos pues el siguiente programa en código C#
-<img src="image1.png"/>
+<img src="compilation.png"/>
 
-Lo compilamos:
 
-$ mcs ProgramCS.cs
-
-Esto nos genera un archivo ProgramCS.exe que es el ensamblado ejecutable.
-Ahora examinemos el mismo programa en código Visual Basic.
-<img src="image2.png"/>
-
-Lo compilamos:
-
-$ vbnc ProgramVB.vb
-
+Al utilizar un compilador para .NET nos genera un archivo ProgramCS.exe que es el ensamblado ejecutable.
 
 Igualmente, el compilador de VB nos genera un ensamblado ejecutable ProgramVB.exe.
-Al ejecutar cualquiera de los dos ensamblados se mostrará el siguiente resultado:
+
+
+Al ejecutar cualquiera de los dos ensamblados se muestra el siguiente resultado:
+
+Esto es porque ambos compiladores generan un ensamblado con codigo intermedio (Codigo IL) que ejecutara el interprete de .NET.
+
+Como en la siguiente imagen:
+
+<img src="compilationdotnet.png"/>
 
 Los ensamblados se clasifican según su uso:
 
