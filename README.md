@@ -13,6 +13,8 @@ Igualmente, el compilador de VB nos genera un ensamblado ejecutable ProgramVB.ex
 
 Al ejecutar cualquiera de los dos ensamblados se muestra el siguiente resultado:
 
+<img src="output.png">
+
 Esto es porque ambos compiladores generan un ensamblado con codigo intermedio (Codigo IL) que ejecutara el interprete de .NET.
 
 Como en la siguiente imagen:
