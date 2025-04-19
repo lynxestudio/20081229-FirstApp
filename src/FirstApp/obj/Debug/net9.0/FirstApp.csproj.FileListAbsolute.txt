@@ -1,0 +1,15 @@
+D:\Documents\10.www.humansharp.com\Posts\2008\20081229-FirstApp\src\FirstApp\obj\Debug\net9.0\FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\10.www.humansharp.com\Posts\2008\20081229-FirstApp\src\FirstApp\obj\Debug\net9.0\FirstApp.AssemblyInfoInputs.cache
+D:\Documents\10.www.humansharp.com\Posts\2008\20081229-FirstApp\src\FirstApp\obj\Debug\net9.0\FirstApp.AssemblyInfo.cs
+D:\Documents\10.www.humansharp.com\Posts\2008\20081229-FirstApp\src\FirstApp\obj\Debug\net9.0\FirstApp.csproj.CoreCompileInputs.cache
+D:\Documents\10.www.humansharp.com\Posts\2008\20081229-FirstApp\src\FirstApp\obj\Debug\net9.0\FirstApp.sourcelink.json
+D:\Documents\10.www.humansharp.com\Posts\2008\20081229-FirstApp\src\FirstApp\bin\Debug\net9.0\FirstApp.exe
+D:\Documents\10.www.humansharp.com\Posts\2008\20081229-FirstApp\src\FirstApp\bin\Debug\net9.0\FirstApp.deps.json
+D:\Documents\10.www.humansharp.com\Posts\2008\20081229-FirstApp\src\FirstApp\bin\Debug\net9.0\FirstApp.runtimeconfig.json
+D:\Documents\10.www.humansharp.com\Posts\2008\20081229-FirstApp\src\FirstApp\bin\Debug\net9.0\FirstApp.dll
+D:\Documents\10.www.humansharp.com\Posts\2008\20081229-FirstApp\src\FirstApp\bin\Debug\net9.0\FirstApp.pdb
+D:\Documents\10.www.humansharp.com\Posts\2008\20081229-FirstApp\src\FirstApp\obj\Debug\net9.0\FirstApp.dll
+D:\Documents\10.www.humansharp.com\Posts\2008\20081229-FirstApp\src\FirstApp\obj\Debug\net9.0\refint\FirstApp.dll
+D:\Documents\10.www.humansharp.com\Posts\2008\20081229-FirstApp\src\FirstApp\obj\Debug\net9.0\FirstApp.pdb
+D:\Documents\10.www.humansharp.com\Posts\2008\20081229-FirstApp\src\FirstApp\obj\Debug\net9.0\FirstApp.genruntimeconfig.cache
+D:\Documents\10.www.humansharp.com\Posts\2008\20081229-FirstApp\src\FirstApp\obj\Debug\net9.0\ref\FirstApp.dll
