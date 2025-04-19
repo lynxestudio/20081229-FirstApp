@@ -2,6 +2,8 @@ Imports System
 
 Module Program
     Sub Main(args As String())
+	Console.Clear()
+	Console.ForegroundColor = ConsoleColor.Green
         Console.WriteLine("Tabla de equivalencias de Celsius a Fahrenheit")
 	Console.WriteLine($"Celsius{ControlChars.Tab}Fahrenheit")
 	For i As Integer = 100 to 0 Step -5

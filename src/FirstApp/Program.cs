@@ -1,5 +1,7 @@
 ﻿using System;
 
+Console.Clear();
+Console.ForegroundColor = ConsoleColor.Green;
 Console.WriteLine("Tabla de equivalencias de celsius a fahrenheit");
 Console.WriteLine("Celsius\tFahrenheit");
 for(int i = 100;i >= 0;i-=5)

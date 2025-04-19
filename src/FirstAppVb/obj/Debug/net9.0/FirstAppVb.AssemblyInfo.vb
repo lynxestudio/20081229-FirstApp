@@ -15,7 +15,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("FirstAppVb"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0582e53a9b2cf5411d0346e3a510ad9bd3c13bfb"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db2501ed328e821e263ec73399841498935ae1b0"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("FirstAppVb"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("FirstAppVb"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 
